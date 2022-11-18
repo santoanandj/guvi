@@ -1,0 +1,3 @@
+pull image from dockerhub by given public repository
+
+docker pull santoanandj/guvi:v1
